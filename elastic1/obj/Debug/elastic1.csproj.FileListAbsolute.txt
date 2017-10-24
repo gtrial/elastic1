@@ -1,0 +1,8 @@
+C:\Users\dmyk\RiderProjects\elastic1\elastic1\bin\Debug\elastic1.exe
+C:\Users\dmyk\RiderProjects\elastic1\elastic1\bin\Debug\elastic1.pdb
+C:\Users\dmyk\RiderProjects\elastic1\elastic1\bin\Debug\Elasticsearch.Net.dll
+C:\Users\dmyk\RiderProjects\elastic1\elastic1\bin\Debug\Elasticsearch.Net.xml
+C:\Users\dmyk\RiderProjects\elastic1\elastic1\obj\Debug\elastic1.csprojResolveAssemblyReference.cache
+C:\Users\dmyk\RiderProjects\elastic1\elastic1\obj\Debug\elastic1.csproj.CoreCompileInputs.cache
+C:\Users\dmyk\RiderProjects\elastic1\elastic1\obj\Debug\elastic1.exe
+C:\Users\dmyk\RiderProjects\elastic1\elastic1\obj\Debug\elastic1.pdb
